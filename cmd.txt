@@ -1,0 +1,7 @@
+ *  *  *  4  2 
+ *  *  *  *  2 
+ *  4  4  *  * 
+ *  4  *  *  * 
+ *  2  *  *  * 
+There are 7 block(s) was(were) filled
+The size of matrix is 5x5
